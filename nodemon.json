@@ -1,0 +1,6 @@
+{
+    "env" : {
+        "ATLAS_PASS" : "shop",
+        "JWT_PASS": "haslo"
+    }
+}
